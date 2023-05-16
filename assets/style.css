@@ -2,10 +2,11 @@ body {
 	max-width: 1920px;
 	margin: auto;
 }
-* {
-	font-family: 'Inter';
-	font-style: normal;
+
+p, h1, h2, h3, h4, h5 {
+	font-family: 'Inter', sans-serif;
 }
+
 header {
 	background-color: white;
 	position: sticky;
@@ -71,7 +72,7 @@ nav a {
 	width: 100%;
 
 }
-#about-me {
+article {
 	flex: 2
 }
 .about-me__title {
@@ -79,25 +80,20 @@ nav a {
 	margin-bottom: 60px;
 	font-size: 30px;
 }
-.about-me__introduction {
+article .about-me__introduction {
+    font-size: 1rem;
 	font-family: 'Spectral';
-	font-weight: 800;
-	font-style: italic;
 	width: 60%;
 }
-#about-me p {
+article p {
 	width: 80%;
 	font-size: 14px;
-}
-
-#gallery {
-	/*	min-height: 100vh; */
 }
 .title{
 	text-align: center;
 	padding-block: 2em;
 }
-.gallery nav {
+.gallery .nav {
 	justify-content: center;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
@@ -110,7 +106,6 @@ nav a {
 }
 .item-column {
 	position: relative;
-	margin-bottom: 0 !important;
 	padding: 0;
 }
 .item-column::after{
@@ -126,6 +121,20 @@ nav a {
 	object-fit: cover;
 	padding: .5em;
 }
+.mg-prev {
+	cursor:pointer;
+	position:absolute;
+	top:50%;
+	left:-15px;
+	background:white;
+}
+.mg-next {
+	cursor:pointer;
+	position:absolute;
+	top:50%;
+	right:-15px;
+	background:white;
+}
 .mg-prev, .mg-next {
 	width: 30px;
 	height: 30px;
@@ -136,8 +145,7 @@ nav a {
 	font-size: 24px;
 }
 
-.quote {
-	font-family: 'Spectral';
+blockquote {
 	font-style: italic;
 	width: 70%;
 	margin: auto;
@@ -147,12 +155,14 @@ nav a {
 	font-family: Spectral;
 	font-style: italic;
 	font-weight: 300;
-
+	font-size: 2.5rem;
+    line-height: 1.2;
 }
 .quote__author {
 	font-family: Spectral;
 	font-weight: 800;
 	font-size: 22px;
+	font-style: normal;
 }
 
 #services {
@@ -255,7 +265,7 @@ input[type="submit"] {
 		margin-top: 0;
 		margin-bottom: 1em;
 	}
-	#about-me h6, #about-me p {
+	article .about-me__introduction, article p {
 		width: 100%;
 	}
 }
