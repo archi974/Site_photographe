@@ -205,13 +205,13 @@
                             ${
                               navigation
                                 ? '<div class="mg-prev"><</div>'
-                                : '<span class="TEST" style="display:none;" />'
+                                : '<span style="display:none;" />'
                             }
                             <img class="lightboxImage img-fluid" alt="Contenu de l'image affichée dans la modale au clique"/>
                             ${
                               navigation
                                 ? '<div class="mg-next">></div>'
-                                : '<span class="TESTTWO" style="display:none;" />'
+                                : '<span style="display:none;" />'
                             }
                         </div>
                     </div>

@@ -93,6 +93,9 @@ article p {
 	text-align: center;
 	padding-block: 2em;
 }
+.gallery {
+	display: none;
+}
 .gallery .nav {
 	justify-content: center;
 }
