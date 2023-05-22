@@ -33,6 +33,10 @@ nav ul {
 nav li {
 	padding-inline: 10px;
 }
+nav li:hover {
+	border-radius: 0.25rem;
+	background-color: #BEB45A;
+}
 
 nav a {
 	text-decoration: none;
