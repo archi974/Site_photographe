@@ -266,6 +266,11 @@ blockquote {
 	z-index: -1;
 }
 
+.picture img {
+	max-width: 100%;
+	height: auto;
+}
+
 .form-container {
 	flex: 2;
 
