@@ -71,10 +71,10 @@ nav a:hover {
 	position: relative;
 }
 
-.size-carousel {
+/* .size-carousel {
 	max-width: 100%;
 	height: auto;
-}
+} */
 
 .picture.left::before {
 	content: ' ';
