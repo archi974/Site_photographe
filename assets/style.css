@@ -71,6 +71,11 @@ nav a:hover {
 	position: relative;
 }
 
+.size-carousel {
+	max-width: 100%;
+	height: auto;
+}
+
 .picture.left::before {
 	content: ' ';
 	background-color: var(--orange-color);
