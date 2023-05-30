@@ -8,6 +8,7 @@
 	--dark-turquoise-color: #1C6474;
 	--yellow-color: #BEB45A;
 	--light-yellow-color: #D8D3A8;
+	--font-spectral: 'Spectral', 'Arial', sans-serif;
 }
 
 body {
@@ -105,7 +106,7 @@ article {
 
 article .about-me__introduction {
 	font-size: 1rem;
-	font-family: 'Spectral', 'Arial', sans-serif;
+	font-family: var(--font-spectral);
 	width: 60%;
 }
 
@@ -194,7 +195,7 @@ blockquote {
 }
 
 .quote__text {
-	font-family: 'Spectral', 'Arial', sans-serif;
+	font-family: var(--font-spectral);
 	font-style: italic;
 	font-weight: 300;
 	font-size: 2.5rem;
@@ -202,7 +203,7 @@ blockquote {
 }
 
 .quote__author {
-	font-family: 'Spectral', 'arial', sans-serif;
+	font-family: var(--font-spectral);
 	font-weight: 800;
 	font-size: 22px;
 	font-style: normal;
