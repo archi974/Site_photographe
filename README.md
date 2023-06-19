@@ -19,8 +19,8 @@
 ## Projet 5 : Réalisation de la partie dynamique du front d'un portfolio d'architecte en JavaScript
 ## Informations globales :
 
-- Status : 🟢 Terminé
-- Projet réaliser seul
+- Statut : 🟢 Terminé
+- Projet réalisé seul
 - Lien vers le [site](https://keen-liger-d4c808.netlify.app/)
 - Lien vers le [GitHub](https://github.com/archi974/site_photographe)
 
