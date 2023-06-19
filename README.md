@@ -16,7 +16,7 @@
     
 </div>
 
-## Projet : Réalisation de la partie dynamique du front d'un portfolio d'architecte en JavaScript
+## Projet 5 : Réalisation de la partie dynamique du front d'un portfolio d'architecte en JavaScript
 ## Informations globales :
 
 - Status : 🟢 Terminé
