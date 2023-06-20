@@ -61,9 +61,19 @@ Nina répond positivement à votre demande en vous demandant une optimisation de
 - Installer l'extension [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) sur Visual Studo Code.
 - Lancer "Go Live" pour lancer le serveur.
 
+## Rendu final
+
+![Carrousel](https://cdn.discordapp.com/attachments/1081227920770596865/1120630639788564542/Capture_decran_2023-06-20_a_10.25.53.png)
+![Biographie](https://cdn.discordapp.com/attachments/1081227920770596865/1120374522852429935/Capture_decran_2023-06-19_a_16.16.48.png)
+![Portfolio](https://cdn.discordapp.com/attachments/1081227920770596865/1120374523393478706/Capture_decran_2023-06-19_a_16.17.00.png)
+![Prestation](https://cdn.discordapp.com/attachments/1081227920770596865/1120630155887525918/Capture_decran_2023-06-20_a_10.23.30.png)
+![Formulaire](https://cdn.discordapp.com/attachments/1081227920770596865/1120629833584607262/Capture_decran_2023-06-20_a_10.22.41.png)
+![Formulaire](https://cdn.discordapp.com/attachments/1081227920770596865/1120374450555211837/Capture_decran_2023-06-19_a_16.36.41.png)
+![Formulaire](https://cdn.discordapp.com/attachments/1081227920770596865/1120374451066900603/Capture_decran_2023-06-19_a_16.40.06.png)
+
 ## Droits d’auteurs et informations sur la licence.
 
-Réaliser par Vincent K/BIDI.
+Réalisé par Vincent K/BIDI.
 
 ©2000 [Openclassroom](https://openclassrooms.com/fr/), Inc. Tout droit réservés.
 
